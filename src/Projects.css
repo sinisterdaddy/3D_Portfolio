@@ -1,0 +1,107 @@
+/* Projects.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #050025 0%, rgb(156, 162, 75) 100%);
+    transition: background 0.5s ease;
+    color: #000000;
+}
+
+.max-container {
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    /* Soft white background with transparency */
+    border-radius: 10px;
+    /* Add some border radius for a softer look */
+}
+
+.head-text {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #050505;
+    /* Dark gray color for text */
+}
+
+.blue-gradient_text {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+
+.text-slate-500 {
+    color: #000000;
+    /* Light gray color for text */
+    line-height: 1.5;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block-container {
+    width: 100%;
+    height: auto;
+}
+
+.btn-back {
+    width: 100%;
+    height: 100%;
+    background-color: #2c3e50;
+    /* Dark background color */
+    border-radius: 12px;
+}
+
+.btn-front {
+    width: 100%;
+    height: 100%;
+    background-color: #34495e;
+    /* Slightly lighter background color */
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Additional styles as needed */
+
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Add more font styles as needed */.experience {
+    color: #00c6ff;
+    /* Set the desired color for the experience title */
+    font-size: 2rem;
+    /* Set the desired font size for the experience title */
+    font-weight: bold;
+    /* Set the desired font weight for the experience title */
+}
+/* styles.css */
+
+/* Custom text color for skills */
+.skills-text {
+    color: #4CAF50;
+    /* Green color, you can change it to your preferred color */
+}
+
+/* Custom text color for experiences */
+.experience-text {
+    color: #FF5722;
+    /* Deep Orange color, you can change it to your preferred color */
+}
+
+/* Custom text color for social links */
+.social-link-text {
+    color: #2196F3;
+    /* Blue color, you can change it to your preferred color */
+}
+
+/* Custom text color for projects */
+.project-text {
+    color: #FFC107;
+    /* Amber color, you can change it to your preferred color */
+}
