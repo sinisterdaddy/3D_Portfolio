@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 well the site is currently slow, perfonce is not good, little responsive issues needs to be fixed as well.
 use own domain.
 find a way to make it fast.
- 
+Changing hosting site.
