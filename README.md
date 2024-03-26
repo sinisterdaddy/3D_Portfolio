@@ -11,3 +11,4 @@ well the site is currently slow, perfonce is not good, little responsive issues 
 use own domain.
 find a way to make it fast.
 Changing hosting site.
+soon going live.
